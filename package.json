@@ -7,5 +7,9 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "The instructions on how to use github-activity CLI will be added as the project progresses.",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^1.7.6"
+  }
 }
